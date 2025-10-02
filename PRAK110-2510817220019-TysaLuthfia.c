@@ -1,4 +1,5 @@
-#include <stdio.h> #include <math.h>
+#include <stdio.h> 
+#include <math.h>
 
 int main()
 {
@@ -18,5 +19,6 @@ int main()
     printf("Sisi B = %d cm\n", sb); 
     printf("Sisi C = %d cm\n", ti);
     printf("Keliling = %d cm\n", kel); 
-    printf("Luas = %d cm\n", lu); return 0;
+    printf("Luas = %d cm\n", lu); 
+    return 0;
 }

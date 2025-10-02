@@ -5,9 +5,7 @@ int main() {
     double b = 6;
     double x = 10;
     double y = 7;
-    double hasil;
-
-    hasil = (a + b) * x / y;
+    double hasil = (a + b) * x / y;
     printf("Variabel a bernilai %.0f\n", a);
     printf("Variabel b bernilai %.0f\n", b);
     printf("Variabel x bernilai %.0f\n", x);
