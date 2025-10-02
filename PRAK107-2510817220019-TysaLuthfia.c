@@ -3,11 +3,11 @@
 
 int main()
 {
-    int s1=4; 
-    int s2=5; 
-    int s3=7; 
-    int kt=16;
-    int ht=85000;
+    int s1 = 4; 
+    int s2 = 5; 
+    int s3 = 7; 
+    int kt = 16;
+    int ht = 85000;
     int biaya = kt * ht;
     
     printf("Diketahui :\n");

@@ -8,7 +8,7 @@ int main()
     int B = 350000;
     int dA = 87/100;
     int dB = 79/100;
-    int hA = round (400000 * dA);
+    int hA = round (400000 * dA); 
     int hB = round (350000 * dB);
     printf("Harga sepatu A adalah %d\n", A);
     printf("Harga sepatu B adalah %d\n", B); 
