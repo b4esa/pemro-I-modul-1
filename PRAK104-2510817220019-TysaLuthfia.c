@@ -16,4 +16,3 @@ int main()
     printf("Sepatu B mendapat diskon 21 persen sehingga harganya menjadi %d\n", hB);
     return 0;
 }
-

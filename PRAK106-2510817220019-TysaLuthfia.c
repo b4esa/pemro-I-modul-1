@@ -13,4 +13,3 @@ int c = 3;
 	printf("Apakah a tidak sama dengan c ? jawabannya adalah %d\n", a != c);
 	return 0;
 }
-

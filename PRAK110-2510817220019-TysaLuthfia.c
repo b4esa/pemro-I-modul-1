@@ -17,7 +17,7 @@ int main()
     printf("Jawab :\n"); 
     printf("Sisi A = %d cm\n", sa); 
     printf("Sisi B = %d cm\n", sb); 
-    printf("Sisi C = %d cm\n", al);
+    printf("Sisi C = %d cm\n", sc);
     printf("Keliling = %d cm\n", kel); 
     printf("Luas = %d cm\n", lu); 
     return 0;

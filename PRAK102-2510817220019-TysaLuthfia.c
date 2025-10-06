@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    float a = 4;
+    double a = 4;
     double b = 8;
     double c = 3;
     double hasil = (a*b/c);

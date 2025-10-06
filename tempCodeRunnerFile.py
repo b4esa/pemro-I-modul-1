@@ -1,17 +1,10 @@
-import math
-al= 5
-ti= 12
-sa= ti
-sb = math.sqrt(al * al + ti * ti) 
-sc = al
-kel = (sa + sb + sc)
-lu = (al * ti) /2
+mt = 5
+jt = 14
+phi = 3.14 
+kel = jt/mt
+r = (round (kel/(2 * phi), 2))
 print("Diketahui :")
-print("Alas = {} cm " .format(al)) 
-print("Tinggi = {} cm\n" .format(ti)) 
-print("Jawab :")
-print("Sisi A = {} cm" .format(ti)) 
-print("Sisi B = {} cm" .format(round(sb))) 
-print("Sisi C = {} cm" .format(al)) 
-print("Keliling = {} cm" .format(round(kel)))
-print("Luas = {} cm" .format(round(lu)))
+print("Pak Dengklek mengelilingi taman = {} Putaran" .format(mt))
+print("Jarak tempuh Pak Dengklek = {} Kilometer \n".format(jt)) 
+print("Jawaban :")
+print("Jari-jari taman yang dikelilingi Pak Dengklek adalah {} Kilometer".format(r))
