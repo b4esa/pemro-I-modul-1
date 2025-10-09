@@ -7,6 +7,6 @@ int main()
     printf("Variabel X bernilai %d\n", x);
     printf("Variabel Y bernilai %d\n", y);
     printf("Variabel Z bernilai %d\n", z);
-    printf("Jumlah variabel Z bernilai %d\n", x+y+z);
+    printf("Jumlah variabel bernilai %d\n", x+y+z);
     return 0;
 }
